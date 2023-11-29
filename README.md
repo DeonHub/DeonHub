@@ -30,10 +30,21 @@
 
 
 ### 📫 Let's Connect:
-- [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/gideon-impraim-05ba0820b/))
+- [LinkedIn](https://www.linkedin.com/in/gideon-impraim-05ba0820b/)
 - [Portfolio](your-portfolio-link)
 - [Twitter](your-twitter-profile-link)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DeonHub&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeonHub&layout=compact&theme=radical)
+
+![Visitor Count](https://profile-counter.glitch.me/DeonHub/count.svg)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeonHub&theme=github)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=DeonHub&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DeonHub)
+
 
