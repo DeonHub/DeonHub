@@ -1,4 +1,5 @@
 # Hello👋,I'm Gideon Impraim
+
 ## Fullstack Developer | Mobile App Developer | Graphic Designer | UI/UX Designer | Data Analyst | Video Editor
 
 🚀 Passionate about building scalable web applications and exploring new technologies.
@@ -33,11 +34,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-
 ### 📫 Let's Connect:
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/gideon-impraim-05ba0820b/)
 - My Portfolio [Portfolio](https://deonhub.netlify.app/)
-- Twitter [Twitter](your-twitter-profile-link)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DeonHub&show_icons=true&theme=radical)
