@@ -39,12 +39,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeonHub&layout=compact&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/DeonHub/count.svg)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeonHub&theme=github)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=DeonHub&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DeonHub)
 
 
