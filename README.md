@@ -1,4 +1,4 @@
-# Hello, I'm Deon! 👋
+# Hello👋,I'm Gideon Impraim
 ## Fullstack Developer | Mobile App Developer | Graphic Designer | UI/UX Designer | Data Analyst | Video Editor
 
 🚀 Passionate about building scalable web applications and exploring new technologies.
@@ -8,6 +8,11 @@
 💻 I enjoy coding in Python, JavaScript, and exploring various frameworks like React and Django.
 
 🎨 Experienced in crafting elegant UI/UX designs to deliver delightful user experiences.
+
+📄 Know about my experiences [https://drive.google.com/file/d/1-pwTElr4QkCZ8wNKfWj_fshbLvSuz_y2/view?usp=sharing](https://drive.google.com/file/d/12G63wtG1CtMgJO5Mr9n1ooaUKXEpFo7H/view?usp=sharing)
+
+⚡ Fun fact I'm a Real Madrid fan
+
 
 ### 🛠️ Technologies & Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,9 +35,9 @@
 
 
 ### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/gideon-impraim-05ba0820b/)
-- [Portfolio](your-portfolio-link)
-- [Twitter](your-twitter-profile-link)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/gideon-impraim-05ba0820b/)
+- My Portfolio [Portfolio](https://deonhub.netlify.app/)
+- Twitter [Twitter](your-twitter-profile-link)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DeonHub&show_icons=true&theme=radical)
