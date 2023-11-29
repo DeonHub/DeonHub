@@ -27,15 +27,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 🚀 Projects:
-- [Project 1](link-to-project1): Brief description.
-- [Project 2](link-to-project2): Brief description.
-- [Project 3](link-to-project3): Brief description.
+
 
 ### 📫 Let's Connect:
-- [LinkedIn](your-linkedin-profile-link)
+- [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/gideon-impraim-05ba0820b/))
 - [Portfolio](your-portfolio-link)
 - [Twitter](your-twitter-profile-link)
 
-### 👀 Check out my stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DeonHub&show_icons=true&theme=radical)
+
