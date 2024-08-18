@@ -1,6 +1,7 @@
 # Hello👋,I'm Gideon Impraim
 
-## Fullstack Developer | Mobile App Developer | Graphic Designer | UI/UX Designer | Data Analyst | Video Editor
+## Fullstack Developer | Mobile App Developer | Graphic Designer | UI/UX Designer | Data Analyst | Video Editor | Virtual Assistant
+
 
 🚀 Passionate about building scalable web applications and exploring new technologies.
 
